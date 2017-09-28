@@ -8,4 +8,4 @@ append gpl
 
 test branch
 
-coalition txt
+harmonized file
